@@ -1,4 +1,4 @@
-
+package solutions;
 //                 Classic Two Sum
 //
 //Find two indices whose values add up to the target.
@@ -12,9 +12,7 @@
 //
 //[0,1]
 
-package twoSum;
-import java.util.*;
-class twoSumSorted {
+public class twoSumSorted {
 
     public static void twoSum(int[] arr , int target) {
         int left = 0;
@@ -26,16 +24,11 @@ class twoSumSorted {
                 System.out.println("["+ left +","+ right +"]");
                 return ;
             }
-            else if ( localSum < target ) left++;
-            else right--;
+            else if ( localSum < target )
+                left++;
+            else
+                right--;
         }
         System.out.println("NOT FOUND");
     }
-
-    public static void main(String[] args) {
-        int[] input = {1,2,3,4,5,6};
-        int target = 5;
-        twoSum(input,target);
-    }
-
 }
