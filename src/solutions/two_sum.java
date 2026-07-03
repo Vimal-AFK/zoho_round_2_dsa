@@ -12,7 +12,7 @@ package solutions;
 //
 //[0,1]
 
-public class twoSumSorted {
+public class two_sum {
 
     public static void twoSum(int[] arr , int target) {
         int left = 0;
