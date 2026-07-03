@@ -9,6 +9,7 @@ import static solutions.third_largest.third_largest;
 
 public class main {
     public static void main(String[] args) {
+        //this is main fun
         int[] input = { 5,2,6,4,10 };
         reverse_array(input,2,4);
         for(int x : input) {
