@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class reverse_array {
     public static void reverse_array( int[] arr , int left , int right  ) {

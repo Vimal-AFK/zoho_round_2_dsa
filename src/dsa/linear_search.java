@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class linear_search {
     public static int linear_search( int[] arr , int target ) {

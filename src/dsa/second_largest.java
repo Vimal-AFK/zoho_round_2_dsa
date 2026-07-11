@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class second_largest {
     public static void second_largest( int[] arr ) {

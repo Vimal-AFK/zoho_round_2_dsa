@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class first_unique_character {
     public static char first_unique_character_1(String s){

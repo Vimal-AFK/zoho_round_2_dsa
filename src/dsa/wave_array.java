@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class wave_array {
 

@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class equilibrium_index {
     public static void equilibrium_index_1( int[] arr ) {

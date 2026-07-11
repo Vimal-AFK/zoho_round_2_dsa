@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class binary_search {
     public static boolean binary_search(int[] arr, int target) {

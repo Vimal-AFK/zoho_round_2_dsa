@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class third_largest {
     public static void third_largest(int[] arr){

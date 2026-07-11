@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class reverse_using_recursion {
     public static void reverse_using_recursion ( char[] arr , int left , int right ) {

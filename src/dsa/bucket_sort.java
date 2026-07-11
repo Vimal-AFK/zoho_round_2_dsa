@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class bucket_sort {
     public static void bucket_sort(int[] arr){

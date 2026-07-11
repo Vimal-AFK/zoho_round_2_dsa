@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class kth_largest_element {
     public static int kthLargestElementMethod1(int[] arr , int k) {

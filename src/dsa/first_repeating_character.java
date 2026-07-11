@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class first_repeating_character {
 

@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class sum_of_elements_based_on_occurance {
     public static void sum_of_elements_based_on_occurance_method_1(int[] arr) {

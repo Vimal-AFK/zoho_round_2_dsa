@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 
 public class Longest_palindromic_length_formation {
     public static int Longest_palindromic_length_formation(String s) {
@@ -16,7 +16,7 @@ public class Longest_palindromic_length_formation {
             }
         }
         if ( oddFound ) count++;
-
+        System.out.println(count);
         return count;
 
     }

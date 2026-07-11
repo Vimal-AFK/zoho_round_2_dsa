@@ -1,4 +1,4 @@
-package solutions;
+package dsa;
 //                 Classic Two Sum
 //
 //Find two indices whose values add up to the target.
